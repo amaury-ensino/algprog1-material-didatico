@@ -72,7 +72,7 @@ O arquivo [`hello.py`](hello.py) contém o programa inicial.
 
 ## Conclusão
 
-- [ ] Criei um arquivo `.py`.
+- [X] Criei um arquivo `.py`.
 - [ ] Executei o programa.
 - [ ] Modifiquei pelo menos uma mensagem.
 - [ ] Criei meu próprio pequeno programa.

@@ -1,7 +1,7 @@
 # Ambientação e ferramentas
 
-<INCLUIR DEPOIS>
+INCLUIR DEPOIS
 
 ## Conteúdos
 
-- <INCLUIR DEPOIS>
+- INCLUIR DEPOIS
